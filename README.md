@@ -1,3 +1,5 @@
+This is the link to view the page through GitHub pages: https://morning-dove.github.io/JS-Average-Age/
+
 # Average Age Calculator for Super Heroes
 
 This simple JavaScript function calculates the average age of a group of super heroes. Given an object containing the names and ages of super heroes, the function averageAge computes the average age of all the heroes and displays on a simple HTML page
